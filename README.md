@@ -1,4 +1,4 @@
-# Codsoft-6_CREDIT-CARD-FRAUD-DETECTION
+# Codsoft-3_CREDIT-CARD-FRAUD-DETECTION
 This repository contains a machine learning project aimed at identifying fraudulent credit card transactions. The project involves preprocessing and normalizing transaction data, handling class imbalance issues, and training a classification algorithm to classify transactions as fraudulent or genuine.
 
 
